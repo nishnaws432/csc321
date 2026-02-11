@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class nnawshin3 {
+public class nnawshin4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
